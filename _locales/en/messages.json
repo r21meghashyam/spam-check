@@ -1,0 +1,17 @@
+{
+    "menuAddToSpamWebsites":{
+        "message": "Add website to spam list",
+        "description":"Add this website to the list of spam website."
+    },
+    "menuAddToSpamLinks":{
+        "message": "Add link to spam",
+        "description":"Add this website to the list of spam website."
+    },
+    "notificationTitle":{
+        "message": "Website added to spam list"
+    },
+    "notificationContent":{
+        "message": "Thank you for contributing to make the web spam free."
+    }
+  
+  }
